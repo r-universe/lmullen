@@ -1,5 +1,35 @@
 [
   {
+    "package": "gender",
+    "oncran": true
+  },
+  {
     "package": "genderdata"
+  },
+  {
+    "package": "textreuse",
+    "oncran": true
+  },
+  {
+    "package": "tokenizers",
+    "oncran": true
+  },
+  {
+    "package": "historydata",
+    "oncran": true
+  },
+  {
+    "package": "historydata",
+    "oncran": true
+  },
+  {
+    "package": "USAboundaries",
+    "oncran": true
+  },
+  {
+    "package": "USAboundariesData"
+  },
+  {
+    "package": "internetarchive"
   }
 ]
