@@ -43,3 +43,18 @@
 	url = https://github.com/ropensci/internetarchive
 	shallow = true
 	registered = true
+[submodule "geochecker"]
+	path = geochecker
+	url = https://github.com/lmullen/geochecker
+	shallow = true
+	registered = true
+[submodule "WPAnarratives"]
+	path = WPAnarratives
+	url = https://github.com/lmullen/WPAnarratives
+	shallow = true
+	registered = true
+[submodule "tractarian"]
+	path = tractarian
+	url = https://github.com/lmullen/tractarian
+	shallow = true
+	registered = true

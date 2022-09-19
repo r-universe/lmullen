@@ -31,5 +31,14 @@
   },
   {
     "package": "internetarchive"
+  },
+  {
+    "package": "geochecker"
+  },
+  {
+    "package": "WPAnarratives"
+  },
+  {
+    "package": "tractarian"
   }
 ]
