@@ -1,60 +1,37 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/lmullen/universe
-	shallow = true
 	branch = HEAD
-[submodule "gender"]
-	path = gender
-	url = https://github.com/lmullen/gender
-	shallow = true
-	registered = true
-[submodule "genderdata"]
-	path = genderdata
-	url = https://github.com/lmullen/genderdata
-	shallow = true
-	registered = true
-[submodule "textreuse"]
-	path = textreuse
-	url = https://github.com/ropensci/textreuse
-	shallow = true
-	registered = true
-[submodule "tokenizers"]
-	path = tokenizers
-	url = https://github.com/ropensci/tokenizers
-	shallow = true
-	registered = true
-[submodule "historydata"]
-	path = historydata
-	url = https://github.com/ropensci/historydata
-	shallow = true
-	registered = true
 [submodule "USAboundaries"]
 	path = USAboundaries
 	url = https://github.com/ropensci/USAboundaries
-	shallow = true
-	registered = true
 [submodule "USAboundariesData"]
 	path = USAboundariesData
 	url = https://github.com/ropensci/USAboundariesData
-	shallow = true
-	registered = true
-[submodule "internetarchive"]
-	path = internetarchive
-	url = https://github.com/ropensci/internetarchive
-	shallow = true
-	registered = true
-[submodule "geochecker"]
-	path = geochecker
-	url = https://github.com/lmullen/geochecker
-	shallow = true
-	registered = true
 [submodule "WPAnarratives"]
 	path = WPAnarratives
 	url = https://github.com/lmullen/WPAnarratives
-	shallow = true
-	registered = true
+[submodule "gender"]
+	path = gender
+	url = https://github.com/lmullen/gender
+[submodule "genderdata"]
+	path = genderdata
+	url = https://github.com/lmullen/genderdata
+[submodule "geochecker"]
+	path = geochecker
+	url = https://github.com/lmullen/geochecker
+[submodule "historydata"]
+	path = historydata
+	url = https://github.com/ropensci/historydata
+[submodule "internetarchive"]
+	path = internetarchive
+	url = https://github.com/ropensci/internetarchive
+[submodule "textreuse"]
+	path = textreuse
+	url = https://github.com/ropensci/textreuse
+[submodule "tokenizers"]
+	path = tokenizers
+	url = https://github.com/ropensci/tokenizers
 [submodule "tractarian"]
 	path = tractarian
 	url = https://github.com/lmullen/tractarian
-	shallow = true
-	registered = true
